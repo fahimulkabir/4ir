@@ -43,9 +43,13 @@ According to World Economic Forum, the Fourth Industrial Revolution represents a
 - Prof. Dr. Ahmed Mustafa, Purdue University, USA
 - Prof. IL Soo Moon, College of Medicine, South Korea
 
-## Author(Website)
+## About Author(Website)
 Template Name: 4th Industrial Revolution, USTC, Bangladesh.
+
 Template URI: https://ic4ir.netlify.app/
+
 Description: This is conference website.
+
 Author: Md Fahimul Kabir Chowdhury.
+
 Author URI: https://github.com/fahimulkabir
